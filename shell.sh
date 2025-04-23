@@ -1,0 +1,1 @@
+ollama pull deepseek-r1:14b

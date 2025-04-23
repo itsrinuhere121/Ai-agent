@@ -1,0 +1,79 @@
+2025-04-23 22:58:43,774 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 22:58:43,824 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 22:58:44,503 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 22:58:45,133 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-04-23 22:59:08,406 - INFO - 
+==================================================
+2025-04-23 22:59:08,406 - INFO - Starting pipeline for query: 'how to learn car driving easily'
+2025-04-23 22:59:08,406 - INFO - Combining results from services:
+2025-04-23 22:59:08,407 - INFO - Processing Google results...
+2025-04-23 22:59:08,407 - INFO - Starting Google search for: how to learn car driving easily
+2025-04-23 22:59:08,764 - INFO - Google search completed with 0 results
+2025-04-23 22:59:08,764 - INFO - Processing Bing results...
+2025-04-23 22:59:08,765 - INFO - Starting Bing search for: how to learn car driving easily
+2025-04-23 22:59:09,020 - INFO - Bing search completed in 0.255245s
+2025-04-23 22:59:09,021 - INFO - Results combination completed
+2025-04-23 22:59:09,022 - INFO - Results combined, generating answer...
+2025-04-23 23:04:43,954 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-23 23:04:43,955 - INFO - Pipeline completed successfully
+2025-04-23 23:05:45,562 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 23:05:45,581 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 23:05:46,311 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 23:05:46,872 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-04-23 23:05:52,829 - INFO - 
+==================================================
+2025-04-23 23:05:52,830 - INFO - Starting pipeline for query: 'how to learn car driving easily'
+2025-04-23 23:05:52,830 - INFO - Combining results from services:
+2025-04-23 23:05:52,831 - INFO - Processing Google results...
+2025-04-23 23:05:52,831 - INFO - Starting Google search for: how to learn car driving easily
+2025-04-23 23:05:53,163 - INFO - Google search completed with 0 results
+2025-04-23 23:05:53,164 - INFO - Results combination completed
+2025-04-23 23:05:53,165 - INFO - Results combined, generating answer...
+2025-04-23 23:09:23,548 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-23 23:09:23,549 - INFO - Pipeline completed successfully
+2025-04-23 23:17:01,618 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 23:19:21,056 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 23:19:21,101 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 23:19:21,829 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 23:19:30,811 - INFO - 
+==================================================
+2025-04-23 23:19:30,811 - INFO - Starting pipeline for query: 'how to learn car driving easily'
+2025-04-23 23:19:30,812 - INFO - Starting Google search for: how to learn car driving easily
+2025-04-23 23:19:30,812 - ERROR - Google search failed: name 'time' is not defined
+2025-04-23 23:19:30,812 - WARNING - Google failed, using DuckDuckGo fallback
+2025-04-23 23:19:31,016 - ERROR - Combination failed: name 'search_wikipedia' is not defined
+2025-04-23 23:19:31,016 - INFO - Results combined, generating answer...
+2025-04-23 23:20:49,049 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 23:20:49,085 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 23:20:49,779 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 23:20:53,339 - INFO - 
+==================================================
+2025-04-23 23:20:53,339 - INFO - Starting pipeline for query: 'how to learn car driving easily'
+2025-04-23 23:20:53,340 - INFO - Starting Google search for: how to learn car driving easily
+2025-04-23 23:20:53,340 - ERROR - Google search failed: name 'time' is not defined
+2025-04-23 23:20:53,340 - WARNING - Google failed, using DuckDuckGo fallback
+2025-04-23 23:20:53,478 - INFO - Starting Wikipedia search for: how to learn car driving easily
+2025-04-23 23:21:15,312 - INFO - Wikipedia search completed in 21.833499s
+2025-04-23 23:21:15,313 - INFO - Results combined, generating answer...
+2025-04-23 23:21:50,524 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-23 23:21:50,538 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-23 23:21:50,971 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-23 23:21:57,685 - INFO - 
+==================================================
+2025-04-23 23:21:57,686 - INFO - Starting pipeline for query: 'how to learn car driving easily'
+2025-04-23 23:21:57,686 - INFO - Starting Google search for: how to learn car driving easily
+2025-04-23 23:22:07,384 - INFO - Google search completed with 0 results
+2025-04-23 23:22:07,385 - WARNING - Google failed, using DuckDuckGo fallback
+2025-04-23 23:22:07,540 - INFO - Starting Wikipedia search for: how to learn car driving easily
+2025-04-23 23:22:29,404 - INFO - Wikipedia search completed in 21.863239s
+2025-04-23 23:22:29,405 - INFO - Results combined, generating answer...
+2025-04-23 23:22:43,494 - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\srinivas\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\srinivas\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
